@@ -1,0 +1,19 @@
+/* Hide user data initially */
+.data {
+    display: none;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Center the Google Sign-In button */
+.g-signin2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Add margin for profile picture */
+.rounded-circle {
+    margin: 10px 0;
+}
